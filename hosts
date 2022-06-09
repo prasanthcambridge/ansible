@@ -1,0 +1,14 @@
+# This is the default 'ansible/hosts' file.
+#
+#   - Comments begin with the '#' character
+#   - Blank lines are ignored
+#   - Groups of hosts are delimited by [header] elements
+#   - You can enter hostnames or IP addresses
+#   - A hostname/IP can be a member of multiple groups
+#
+# Please use the hosts-deploy file if you are deploying to a single host.
+# PLEASE KEEP UP-TO-DATE
+# Please keep hosts under a group in alphabetic order
+
+[dev]
+server.example.com
