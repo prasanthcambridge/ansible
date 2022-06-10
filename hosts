@@ -11,4 +11,4 @@
 # Please keep hosts under a group in alphabetic order
 
 [dev]
-mailman3-ansible-test.linaro.org
+server.example.com
